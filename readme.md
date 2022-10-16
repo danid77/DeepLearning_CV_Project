@@ -5,7 +5,7 @@
 ---
 
 <br>
-\<!-- ![image]('https://github.com/danid77/DeepLearning_CV_Project/blob/main/imgs/national-cancer-institute-LnvCEXQwC-o-unsplash.jpg') -->
+<!-- ![image]('https://github.com/danid77/DeepLearning_CV_Project/blob/main/imgs/national-cancer-institute-LnvCEXQwC-o-unsplash.jpg') -->
 <h2>Thyroid cancer image classification</h2>
 
 <h3> 기획의도</h3>
