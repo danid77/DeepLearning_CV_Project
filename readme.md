@@ -6,13 +6,11 @@
 
 <br>
 
-![image]()
+![image]('https://github.com/danid77/DeepLearning_CV_Project/blob/main/imgs/national-cancer-institute-LnvCEXQwC-o-unsplash.jpg')
 
 <h2>Thyroid cancer image classification</h2>
 
-![image]()
-
-<h2> 기획의도</h2>
+<h3> 기획의도</h3>
 보건복지부 조사에 따르면, 우리나라의 암 발생률 중 가장 높은 비율을 차지하고 있는 암이 갑상선 암입니다. 
 갑상선 암의 대표적인 진단 방법은 동위원소검사, 조직검사, 초음파 검사 입니다. 
 
